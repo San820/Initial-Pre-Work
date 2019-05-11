@@ -1,4 +1,4 @@
-<!-- When applying multiple class attributes to the same element the browser will check the order in the style section and apply the most recent declaration -->
+<!-- When applying multiple class attributes to the same element the browser will check the order in the style section and apply the most recent declaration. Browsers read css from top to bottom -->
 <style>
   body {
     background-color: black;
