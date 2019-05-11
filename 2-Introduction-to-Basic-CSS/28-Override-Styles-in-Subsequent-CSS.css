@@ -1,0 +1,15 @@
+<!-- When applying multiple class attributes to the same element the browser will check the order in the style section and apply the most recent declaration -->
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text {
+    color: pink;
+  }
+  .blue-text {
+    color: blue;
+  }
+</style>
+<h1 class="pink-text blue-text">Hello World!</h1>
