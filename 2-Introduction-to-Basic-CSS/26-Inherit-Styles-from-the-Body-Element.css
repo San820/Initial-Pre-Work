@@ -1,0 +1,11 @@
+<!-- The style added to the body element will be inherited by all of the elements within the body -->
+<style>
+  body {
+    background-color: black;
+    color: green;
+    font-family: monospace;
+  }
+
+</style>
+
+<h1>Hello World</h1>
