@@ -1,0 +1,6 @@
+<!-- 3 RGB values (0-255) can be used to specify colors in CSS -->
+<style>
+  body {
+    background-color: rgb(0,0,0);
+  }
+</style>
